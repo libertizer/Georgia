@@ -37,13 +37,7 @@ public class HelperClass {
   	private String prereqFile="prereqs.csv";
   	private String actionsFile="actions.csv";
   	
-  	private String dechetsFile="dechetsMenages.csv";
-	private String ecoles="ecoles_et_classes.csv";
-	private String migrations="migrations.csv";
-	private String popeduc="rnpp_descendants_commune.csv";
-	
-	
-  	
+
 	//declare classes
 	private CourseCatalog courseCatalog;
 	private Term te;
