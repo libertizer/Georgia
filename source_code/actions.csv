@@ -1,0 +1,10 @@
+start_sim,2016
+next_term
+allocate_seats,2,100,20
+allocate_seats,2,100,1
+request_course,17,4
+next_term
+next_term
+next_term
+next_term
+stop_sim
